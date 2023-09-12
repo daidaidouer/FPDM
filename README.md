@@ -2,10 +2,10 @@
 
 <h1>Feature Prediction Diffusion Model for Video Anomaly Detection </h1>
 
-Cheng Yan<sup>1*</sup>, &nbsp; 
+Cheng Yan<sup>1</sup>, &nbsp; 
 Shiyu Zhang<sup>1</sup>, &nbsp;
 Yang Liu<sup>2</sup>, &nbsp;
-Guansong Pang<sup>3</sup>
+Guansong Pang<sup>3*</sup>, &nbsp;
 Wenjun Wang<sup>1</sup>
 
 <sup>1</sup>Tianjin University, &nbsp;
