@@ -25,7 +25,6 @@ Anomaly detection in the video is an important research area and a challenging t
 
 
 ## 🗓️ TODO
-- [ ] Online Demo 
 - [ ] Release code
 
 
